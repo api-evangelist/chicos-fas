@@ -39,6 +39,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/chico-s-fas-inc
   - type: Website
     name: Chicos
     url: https://www.chicos.com
