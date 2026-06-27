@@ -66,7 +66,7 @@ common:
     url: https://www.chicosfas.com/corporate-responsibility
   - type: PrivacyPolicy
     url: https://www.chicos.com/store/privacy_policy.jsp
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.chicos.com/store/terms_conditions.jsp
   - type: LoyaltyProgram
     name: Chicos Rewards
