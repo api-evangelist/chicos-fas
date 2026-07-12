@@ -40,6 +40,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/chicos-fas-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/chico-s-fas-inc
   - type: Website
