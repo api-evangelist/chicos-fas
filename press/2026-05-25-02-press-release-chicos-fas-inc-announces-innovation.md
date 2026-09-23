@@ -1,7 +1,9 @@
 ---
 title: 'Press Release: Chico''s FAS, Inc. Announces Innovation ...'
 url: https://www.bounteous.com/insights/2022/08/09/chicos-fas-inc-announces-innovation-driven-partnership-bounteous/
-date: '2026-05-25'
+published: '2022-08-09'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Chico''s FAS" press release artificial intelligence'
 position: 2
 source: serpapi-google

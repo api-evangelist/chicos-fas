@@ -1,7 +1,9 @@
 ---
 title: Chico's FAS partners with First Insight
 url: https://www.firstinsight.com/press-releases/chicos-fas-partners-with-first-insight
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chico''s FAS" press release artificial intelligence'
 position: 1
 source: serpapi-google

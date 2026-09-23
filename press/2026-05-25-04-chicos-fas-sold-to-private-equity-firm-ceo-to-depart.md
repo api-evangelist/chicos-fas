@@ -1,7 +1,9 @@
 ---
 title: Chico's FAS Sold to Private Equity Firm, CEO to Depart
 url: https://www.mytotalretail.com/article/chicos-fas-sold-to-private-equity-firm-ceo-molly-langenstein-to-depart/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chico''s FAS" press release artificial intelligence'
 position: 4
 source: serpapi-google
