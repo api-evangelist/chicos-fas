@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/chicos-fas/integrations
+- https://zapier.com/apps/chico-s-fas/integrations
+- https://n8n.io/integrations/chicos-fas/
+- https://composio.dev/toolkits/chicos-fas
+- https://monid.ai/tools/chicos-fas
+checked:
+- https://composio.dev/toolkits/chicos-fas
+- https://monid.ai/tools/chicos-fas
+- https://n8n.io/integrations/chicos-fas/
+- https://zapier.com/apps/chico-s-fas/integrations
+- https://zapier.com/apps/chicos-fas/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
